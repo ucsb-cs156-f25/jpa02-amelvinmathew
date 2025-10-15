@@ -2,7 +2,7 @@
 
 Repo:  https://github.com/ucsb-cs156-f25/jpa02-cgaucho
 
-Deployed at: https://jpa02-amelvinmathew.dokku-xx.cs.ucsb.edu
+Deployed at: https://jpa02-amelvinmathew.dokku-05.cs.ucsb.edu
 
 
 # About this repo
